@@ -1,0 +1,30 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="randomchar" />
+          <option value="logins.views.UsersView" />
+          <option value="logins.admin.*" />
+          <option value="login.models.verbose_name_plural" />
+          <option value="login.views.JsonResponse" />
+          <option value="login.models.pwd" />
+          <option value="login.models.BcryptSHA256PasswordHasher" />
+          <option value="login.views.check_passwod" />
+          <option value="middlewares.login.logging" />
+          <option value="api.views" />
+          <option value="rest_framework.GoodsViewset" />
+          <option value="api.serializer.GoodsSerializer" />
+          <option value="rest_framework.OrderViewset" />
+          <option value="api.views.router" />
+          <option value="apiapp.auths" />
+          <option value="apiapp.perms" />
+          <option value="user.models.goods" />
+          <option value="df_goods.models.tinymce" />
+          <option value="test1.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
